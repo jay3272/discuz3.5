@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="name">密鑰更新</item>
+	<item id="version">1.0.0</item>
+	<item id="author">Discuz! X Community Team</item>
+	<item id="date">2022-1-30</item>
+	<item id="lastmodified">2022-1-30</item>
+	<item id="copyright">Discuz! X Community Team</item>
+	<item id="tabindex">2</item>
+	<item id="tips">當站點淪陷時您應該考慮進行密鑰更新，以避免黑客通過已知的 UC_MYKEY 密鑰破解 UC_KEY 密鑰。</item>
+	<item id="lang">
+		<item id="plugin_replacemykey_tips">在操作之前建議您選擇低峰期操作或關閉下級應用，並做好 UCenter 以及各應用的數據、文件備份工作。</item>
+		<item id="plugin_replacemykey_confirm">確認</item>
+		<item id="plugin_replacemykey_confirm_tips">我已瞭解上述風險，並已經做好網站備份工作。</item>
+	</item>
+</root>
